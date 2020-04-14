@@ -23,7 +23,7 @@ const PREFIX = process.env.PREFIX
 
 
 const client = new Discord.Client({ disableEveryone: true});
-const ownerID = ["470712192329711628"]; // ايدي ادارة البوت او صاحب البوت ..
+const ownerID = ["538608527116337152"]; // ايدي ادارة البوت او صاحب البوت ..
 
 
 client.commands = new Discord.Collection();
